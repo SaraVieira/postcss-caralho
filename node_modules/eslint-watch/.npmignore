@@ -1,7 +1,0 @@
-spec
-.editorconfig
-.eslint*
-.gitattributes
-.gitignore
-.travis.yml
-appveyor.yml
