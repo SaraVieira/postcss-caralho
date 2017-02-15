@@ -1,0 +1,11 @@
+.gitignore
+
+node_modules/
+npm-debug.log
+coverage/
+test-tmp/
+
+test/
+.travis.yml
+
+gulpfile.js
