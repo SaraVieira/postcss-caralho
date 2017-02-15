@@ -39,4 +39,4 @@ See [PostCSS] docs for examples for your environment.
 
 ## License
 
-MIT
+Use as you please to confuse people and enjoy
