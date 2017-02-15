@@ -1,0 +1,36 @@
+{
+  "name": "postcss-caralho",
+  "version": "1.0.0",
+  "description": "PostCSS plugin for writing Portuguese Stylesheets.",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "portuguese",
+    "portugues"
+  ],
+  "author": "Sara Vieira <hey@iamsaravieira.com>",
+  "license": "MIT",
+  "repository": "SaraVieira/postcss-caralho",
+  "bugs": {
+    "url": "https://github.com/SaraVieira/postcss-caralho/issues"
+  },
+  "homepage": "https://github.com/SaraVieira/postcss-caralho",
+  "dependencies": {
+    "postcss": "^5.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "npm run lint && npm run tests",
+    "tests": "./node_modules/.bin/mocha",
+    "lint": "./node_modules/.bin/eslint index.js test/*.js"
+  }
+}
