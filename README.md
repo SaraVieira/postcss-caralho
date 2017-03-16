@@ -28,6 +28,12 @@ Install from NPM using:
 npm i postcss-caralho --save-dev
 ```
 
+Or Yarn:
+
+```
+yarn add postcss-caralho --dev
+```
+
 ## Usage
 
 ```js
