@@ -19,7 +19,6 @@
 You can also use:
 
 * caralho
-* fodasse
 * foda-se
 * merda
 * desculpa
