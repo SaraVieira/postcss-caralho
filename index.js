@@ -8,9 +8,6 @@ module.exports = postcss.plugin('postcss-caralho', (opts) => { // eslint-disable
 			if (decl.value.indexOf('!caralho') >= 0) {
 				decl.value = decl.value.replace(/\s*!caralho\s*/, '')
 				decl.important = true
-			} else if (decl.value.indexOf('!fodasse') >= 0) {
-				decl.value = decl.value.replace(/\s*!fodasse\s*/, '')
-				decl.important = true
 			} else if (decl.value.indexOf('!foda-se') >= 0) {
 				decl.value = decl.value.replace(/\s*!foda-se\s*/, '')
 				decl.important = true
