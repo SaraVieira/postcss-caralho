@@ -32,6 +32,21 @@ module.exports = postcss.plugin('postcss-caralho', (opts) => { // eslint-disable
 			} else if (decl.value.indexOf('!sorry') >= 0) {
 				decl.value = decl.value.replace(/\s*!sorry\s*/, '')
 				decl.important = true
+			} else if (decl.value.indexOf('!scheisse') >= 0) {
+				decl.value = decl.value.replace(/\s*!scheisse\s*/, '')
+				decl.important = true
+			} else if (decl.value.indexOf('!scheiße') >= 0) {
+				decl.value = decl.value.replace(/\s*!scheiße\s*/, '')
+				decl.important = true
+			} else if (decl.value.indexOf('!verdammt') >= 0) {
+				decl.value = decl.value.replace(/\s*!verdammt\s*/, '')
+				decl.important = true
+			} else if (decl.value.indexOf('!shit') >= 0) {
+				decl.value = decl.value.replace(/\s*!shit\s*/, '')
+				decl.important = true
+			} else if (decl.value.indexOf('!kacke') >= 0) {
+				decl.value = decl.value.replace(/\s*!kacke\s*/, '')
+				decl.important = true
 			}
 		})
 	}

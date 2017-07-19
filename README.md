@@ -27,6 +27,11 @@ You can also use:
 * fuckthis
 * fuck
 * sorry
+* scheisse
+* scheiße
+* verdammt
+* shit
+* kacke
 
 And all of this will become important after PostCSS does his thing.
 
