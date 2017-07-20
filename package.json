@@ -1,34 +1,37 @@
 {
-  "name": "postcss-caralho",
-  "version": "2.0.0",
-  "description": "PostCSS plugin for writing curse words intstead of important because reasons",
-  "keywords": [
-    "postcss",
-    "css",
-    "postcss-plugin",
-    "portuguese",
-    "portugues",
-    "curse",
-    "curseincss"
-  ],
-  "author": "Sara Vieira <hey@iamsaravieira.com>",
-  "license": "MIT",
-  "repository": "SaraVieira/postcss-caralho",
-  "bugs": {
-    "url": "https://github.com/SaraVieira/postcss-caralho/issues"
-  },
-  "homepage": "https://github.com/SaraVieira/postcss-caralho",
-  "dependencies": {
-    "postcss": "^6.0.7"
-  },
-  "devDependencies": {
-    "chai": "^4.1.0",
-    "eslint": "^4.2.0",
-    "mocha": "^3.4.2"
-  },
-  "scripts": {
-    "test": "npm run lint && npm run tests",
-    "tests": "./node_modules/.bin/mocha",
-    "lint": "./node_modules/.bin/eslint index.js test/*.js"
-  }
+	"name": "postcss-caralho",
+	"version": "2.0.0",
+	"description": "PostCSS plugin for writing curse words intstead of important because reasons",
+	"keywords": [
+		"postcss",
+		"css",
+		"postcss-plugin",
+		"portuguese",
+		"portugues",
+		"curse",
+		"curseincss"
+	],
+	"author": "Sara Vieira <hey@iamsaravieira.com>",
+	"license": "MIT",
+	"repository": "SaraVieira/postcss-caralho",
+	"bugs": {
+		"url": "https://github.com/SaraVieira/postcss-caralho/issues"
+	},
+	"homepage": "https://github.com/SaraVieira/postcss-caralho",
+	"dependencies": {
+		"postcss": "^6.0.7"
+	},
+	"devDependencies": {
+		"chai": "^4.1.0",
+		"coveralls": "^2.13.1",
+		"eslint": "^4.2.0",
+		"mocha": "^3.4.2",
+		"nyc": "^11.0.3"
+	},
+	"scripts": {
+		"test": "npm run lint && npm run tests",
+		"tests": "nyc mocha",
+		"lint": "eslint index.js test/*.js",
+		"coverage": "nyc report --reporter=text-lcov | coveralls"
+	}
 }
