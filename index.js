@@ -32,7 +32,7 @@ module.exports = postcss.plugin('postcss-caralho', (opts) => { // eslint-disable
 			} else if (decl.value.indexOf('!sorry') >= 0) {
 				decl.value = decl.value.replace(/\s*!sorry\s*/, '')
 				decl.important = true
-            } else if (decl.value.indexOf('!please') >= 0) {
+			} else if (decl.value.indexOf('!please') >= 0) {
 				decl.value = decl.value.replace(/\s*!please\s*/, '')
 				decl.important = true
 			}
