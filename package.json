@@ -23,6 +23,7 @@
 	},
 	"devDependencies": {
 		"chai": "^4.1.0",
+		"coveralls": "^2.13.1",
 		"eslint": "^4.2.0",
 		"mocha": "^3.4.2",
 		"nyc": "^11.0.3"
@@ -31,6 +32,6 @@
 		"test": "npm run lint && npm run tests",
 		"tests": "nyc mocha",
 		"lint": "eslint index.js test/*.js",
-        "coverage": "nyc report --reporter=text-lcov | coveralls"
+		"coverage": "nyc report --reporter=text-lcov | coveralls"
 	}
 }
