@@ -93,15 +93,53 @@ describe('postcss-caralho', function() {
 			'a{ color: #000 !important; }',
 			{},
 			done
-		));
+		))
 
-	['scheisse', 'scheiße', 'verdammt', 'shit', 'kacke'].forEach(element => {
-		it('converts !'+element+' to !important', done =>
-			test(
-				'a{ color: #000 !'+element+'; }',
-				'a{ color: #000 !important; }',
-				{},
-				done
-			))
-	})
+	it('converts !scheisse to !important', done =>
+		test(
+			'a{ color: #000 !scheisse; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !scheiße to !important', done =>
+		test(
+			'a{ color: #000 !scheiße; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !verdammt to !important', done =>
+		test(
+			'a{ color: #000 !verdammt; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !shit to !important', done =>
+		test(
+			'a{ color: #000 !shit; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !kacke to !important', done =>
+		test(
+			'a{ color: #000 !kacke; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !please to !important', done =>
+		test(
+			'a{ color: #000 !please; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
 })
