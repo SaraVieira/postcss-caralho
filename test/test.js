@@ -94,4 +94,12 @@ describe('postcss-caralho', function() {
 			{},
 			done
 		))
+
+    it('converts !please to !important', done =>
+		test(
+			'a{ color: #000 !please; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
 })
