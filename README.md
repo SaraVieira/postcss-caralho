@@ -1,4 +1,6 @@
-# PostCSS Caralho Plugin [![Travis](https://travis-ci.org/SaraVieira/postcss-caralho.svg?branch=master)](https://travis-ci.org/SaraVieira/postcss-caralho) [![npm](https://badge.fury.io/js/postcss-caralho.svg)](https://www.npmjs.com/package/postcss-caralho)
+# PostCSS Caralho Plugin [![Travis](https://travis-ci.org/SaraVieira/postcss-caralho.svg?branch=master)](https://travis-ci.org/SaraVieira/postcss-caralho)
+[![Coverage Status](https://coveralls.io/repos/github/SaraVieira/postcss-caralho/badge.svg?branch=master)](https://coveralls.io/github/SaraVieira/postcss-caralho?branch=master)
+[![npm](https://badge.fury.io/js/postcss-caralho.svg)](https://www.npmjs.com/package/postcss-caralho)
 
 [PostCSS] plugin for that changes curse words after ! to !important because why not ?
 
@@ -18,26 +20,33 @@
 
 You can also use:
 
+
+### Portuguese
 * caralho
 * foda-se
 * merda
 * desculpa
 * putaqpariu
 * desisto
+
+### English
 * fuckthis
 * fuck
 * sorry
+* shit
+* please
+
+### German
 * scheisse
 * scheiße
 * verdammt
-* shit
 * kacke
 
 And all of this will become important after PostCSS does his thing.
 
 ## Why ?
 
-Idk, mainly boredom and the need to write !caralho in every stylesheet I own.
+Idk, mainly boredom and the need to write !caralho or !fuck in every stylesheet I own.
 
 ## Install
 
@@ -64,4 +73,4 @@ See [PostCSS] docs for examples for your environment.
 
 ## License
 
-Use as you please to confuse people and enjoy
+Use as you please to confuse people and enjoy (MIT)
