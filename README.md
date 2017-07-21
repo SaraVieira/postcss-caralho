@@ -28,6 +28,15 @@ You can also use:
 * desculpa
 * putaqpariu
 * desisto
+* bardamerda
+
+### Brazilian
+* filhodaputa
+* demonio
+* satanas
+* desgraça
+* paunocu
+* feijoada
 
 ### English
 * fuckthis
