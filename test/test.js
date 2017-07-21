@@ -183,9 +183,57 @@ describe('postcss-caralho', function() {
 			done
 		))
 
-	it('converts !please to !important', done =>
+	it('converts !bardamerda to !important', done =>
 		test(
-			'a{ color: #000 !please; }',
+			'a{ color: #000 !bardamerda; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !filhodaputa to !important', done =>
+		test(
+			'a{ color: #000 !filhodaputa; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !demonio to !important', done =>
+		test(
+			'a{ color: #000 !demonio; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !satanas to !important', done =>
+		test(
+			'a{ color: #000 !satanas; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !desgraça to !important', done =>
+		test(
+			'a{ color: #000 !desgraça; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !paunocu to !important', done =>
+		test(
+			'a{ color: #000 !paunocu; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !feijoada to !important', done =>
+		test(
+			'a{ color: #000 !feijoada; }',
 			'a{ color: #000 !important; }',
 			{},
 			done
