@@ -15,7 +15,13 @@ const words = [
 	'scheisse',
 	'scheiße',
 	'verdammt',
-	'kacke'
+	'kacke',
+	'jakesh',
+	'daus',
+	'antar',
+	'pofuz',
+	'lanati',
+	'lamasab'
 ]
 
 module.exports = postcss.plugin('postcss-caralho', () => {
