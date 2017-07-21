@@ -51,6 +51,14 @@ You can also use:
 * verdammt
 * kacke
 
+### Persian
+* jakesh
+* daus
+* antar
+* pofuz
+* lanati
+* lamasab
+
 And all of this will become important after PostCSS does his thing.
 
 ## Why ?
