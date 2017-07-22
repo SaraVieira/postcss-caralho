@@ -4,3 +4,5 @@ coverage/
 test-tmp/
 .DS_store
 .nyc_output
+yarn-error.log
+package-lock.json
