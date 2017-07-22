@@ -238,4 +238,60 @@ describe('postcss-caralho', function() {
 			{},
 			done
 		))
+
+	it('converts !chont to !important', done =>
+		test(
+			'a{ color: #000 !chont; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !fodo to !important', done =>
+		test(
+			'a{ color: #000 !fodo; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !fodri to !important', done =>
+		test(
+			'a{ color: #000 !fodri; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !zov to !important', done =>
+		test(
+			'a{ color: #000 !zov; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !lund to !important', done =>
+		test(
+			'a{ color: #000 !lund; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !lavda to !important', done =>
+		test(
+			'a{ color: #000 !lavda; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+
+	it('converts !choot to !important', done =>
+		test(
+			'a{ color: #000 !choot; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
 })

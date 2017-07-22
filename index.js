@@ -28,7 +28,14 @@ const words = [
 	'antar',
 	'pofuz',
 	'lanati',
-	'lamasab'
+	'lamasab',
+	'chont',
+	'fodo',
+	'fodri',
+	'zov',
+	'lund',
+	'lavda',
+	'choot'
 ]
 
 module.exports = postcss.plugin('postcss-caralho', () => {
