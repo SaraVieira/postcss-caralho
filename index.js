@@ -22,7 +22,14 @@ const words = [
 	'satanas',
 	'desgraça',
 	'paunocu',
-	'feijoada'
+	'feijoada',
+	'chont',
+	'fodo',
+	'fodri',
+	'zov',
+	'lund',
+	'lavda',
+	'choot'
 ]
 
 module.exports = postcss.plugin('postcss-caralho', () => {
