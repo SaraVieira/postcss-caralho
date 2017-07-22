@@ -3,4 +3,4 @@ npm-debug.log
 coverage/
 test-tmp/
 .DS_store
-.nyc_update
+.nyc_output

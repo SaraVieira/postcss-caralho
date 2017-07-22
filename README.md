@@ -70,7 +70,6 @@ You can also use:
 * lavda
 * choot
 
-
 And all of this will become important after PostCSS does his thing.
 
 ## Why ?
