@@ -22,7 +22,7 @@ const words = [
 	'satanas',
 	'desgraça',
 	'paunocu',
-	'feijoada'
+	'feijoada',
 	'jakesh',
 	'daus',
 	'antar',
