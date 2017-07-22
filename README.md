@@ -59,6 +59,18 @@ You can also use:
 * lanati
 * lamasab
 
+### Konkani
+* chont
+* fodo
+* fodri
+* zov
+
+### Hindi
+* lund
+* lavda
+* choot
+
+
 And all of this will become important after PostCSS does his thing.
 
 ## Why ?
