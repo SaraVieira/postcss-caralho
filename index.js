@@ -35,7 +35,17 @@ const words = [
 	'zov',
 	'lund',
 	'lavda',
-	'choot'
+	'choot',
+	'блять',
+	'сука',
+	'тварь',
+	'работай',
+	'чезахуйня',
+	'гандон',
+	'скемнебывает',
+	'упс',
+	'ебанина',
+	'какаятоебанина'
 ]
 
 module.exports = postcss.plugin('postcss-caralho', () => {

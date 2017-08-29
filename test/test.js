@@ -294,4 +294,84 @@ describe('postcss-caralho', function() {
 			{},
 			done
 		))
+	
+	it('converts !блять to !important', done =>
+		test(
+			'a{ color: #000 !блять; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !сука to !important', done =>
+		test(
+			'a{ color: #000 !сука; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !тварь to !important', done =>
+		test(
+			'a{ color: #000 !тварь; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !работай to !important', done =>
+		test(
+			'a{ color: #000 !работай; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !чезахуйня to !important', done =>
+		test(
+			'a{ color: #000 !чезахуйня; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !гандон to !important', done =>
+		test(
+			'a{ color: #000 !гандон; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !скемнебывает to !important', done =>
+		test(
+			'a{ color: #000 !скемнебывает; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !упс to !important', done =>
+		test(
+			'a{ color: #000 !упс; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !ебанина to !important', done =>
+		test(
+			'a{ color: #000 !ебанина; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
+	
+	it('converts !какаятоебанина to !important', done =>
+		test(
+			'a{ color: #000 !какаятоебанина; }',
+			'a{ color: #000 !important; }',
+			{},
+			done
+		))
 })

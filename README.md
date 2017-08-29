@@ -70,6 +70,18 @@ You can also use:
 * lavda
 * choot
 
+### Russian
+* блять
+* сука
+* тварь
+* работай
+* чезахуйня
+* гандон
+* скемнебывает
+* упс
+* ебанина
+* какаятоебанина
+
 And all of this will become important after PostCSS does his thing.
 
 ## Why ?
