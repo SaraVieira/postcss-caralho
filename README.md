@@ -28,7 +28,7 @@ You can also use:
 * desculpa (sorry)
 * putaqpariu (fuck this)
 * desisto (I quit)
-* bardamerda (This rally does not have a translation) 
+* bardamerda (This rally does not have a translation)
 
 ### Brazilian
 * filhodaputa (son of a bitch)
@@ -36,7 +36,7 @@ You can also use:
 * satanas (satan)
 * desgraça (disgrace)
 * paunocu (stick in the ass)
-* feijoada (This rally does not have a translation) 
+* feijoada (This rally does not have a translation)
 
 ### English
 * fuckthis
@@ -49,7 +49,7 @@ You can also use:
 * scheisse (fuck)
 * scheiße (crap)
 * verdammt (damned)
-* kacke (shit) 
+* kacke (shit)
 
 ### Persian (These google translation may be wrong)
 * jakesh (Pussy)
@@ -59,7 +59,7 @@ You can also use:
 * lanati (Damn)
 * lamasab (Lomost)
 
-### Konkani (Google cannot translate PR anyone ?) 
+### Konkani (Google cannot translate PR anyone ?)
 * chont
 * fodo
 * fodri
@@ -87,6 +87,10 @@ And all of this will become important after PostCSS does his thing.
 ## Why ?
 
 Idk, mainly boredom and the need to write !caralho or !fuck in every stylesheet I own.
+
+## Add Words
+
+Simply go to [words.js](https://github.com/SaraVieira/postcss-caralho/blob/master/words.js), edit that file and create a PR, test will build automatically 🎉
 
 ## Install
 
