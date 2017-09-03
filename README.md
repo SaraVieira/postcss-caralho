@@ -22,21 +22,21 @@ You can also use:
 
 
 ### Portuguese
-* caralho
-* foda-se
-* merda
-* desculpa
-* putaqpariu
-* desisto
-* bardamerda
+* caralho (fuck)
+* foda-se (fuck)
+* merda (shit)
+* desculpa (sorry)
+* putaqpariu (fuck this)
+* desisto (I quit)
+* bardamerda (This rally does not have a translation) 
 
 ### Brazilian
-* filhodaputa
-* demonio
-* satanas
-* desgraça
-* paunocu
-* feijoada
+* filhodaputa (son of a bitch)
+* demonio (demon)
+* satanas (satan)
+* desgraça (disgrace)
+* paunocu (stick in the ass)
+* feijoada (This rally does not have a translation) 
 
 ### English
 * fuckthis
@@ -46,41 +46,41 @@ You can also use:
 * please
 
 ### German
-* scheisse
-* scheiße
-* verdammt
-* kacke
+* scheisse (fuck)
+* scheiße (crap)
+* verdammt (damned)
+* kacke (shit) 
 
-### Persian
-* jakesh
-* daus
-* antar
-* pofuz
-* lanati
-* lamasab
+### Persian (These google translation may be wrong)
+* jakesh (Pussy)
+* daus (Sickle)
+* antar (Ether)
+* pofuz (Poufos)
+* lanati (Damn)
+* lamasab (Lomost)
 
-### Konkani
+### Konkani (Google cannot translate PR anyone ?) 
 * chont
 * fodo
 * fodri
 * zov
 
-### Hindi
+### Hindi (Googles translations are horrible PR anyone ?)
 * lund
 * lavda
 * choot
 
 ### Russian
-* блять
-* сука
-* тварь
-* работай
-* чезахуйня
-* гандон
-* скемнебывает
-* упс
-* ебанина
-* какаятоебанина
+* блять (fuck)
+* сука (bitch)
+* тварь (creature)
+* работай (work)
+* чезахуйня (chezahuyna?)
+* гандон (Gondon?)
+* скемнебывает (It happens to everyone)
+* упс (oops)
+* ебанина (fucker)
+* какаятоебанина (a kind of banana)
 
 And all of this will become important after PostCSS does his thing.
 
