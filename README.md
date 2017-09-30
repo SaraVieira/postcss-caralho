@@ -14,7 +14,7 @@
 
 ```css
 .foo {
-    top: 20px  !important;
+    top: 20px !important;
 }
 ```
 
@@ -81,6 +81,12 @@ You can also use:
 * упс (oops)
 * ебанина (fucker)
 * какаятоебанина (a kind of banana)
+
+### Spanish
+* joder (fuck)
+* mierda (shit)
+* perdona (sorry)
+* porfavor (please)
 
 And all of this will become important after PostCSS does his thing.
 
