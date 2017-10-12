@@ -47,5 +47,20 @@ module.exports = [
 	'joder',
 	'mierda',
 	'perdona',
-	'porfavor'
+	'porfavor',
+	'merde',
+	'putain',
+	'saloperie',
+	'couillon',
+	'con',
+	'foutu',
+	'trouduc',
+	'enfoiré',
+	'bordel',
+	'chier',
+	'abruti',
+	'crève',
+	'enflure',
+	'pardon',
+	'stp'
 ]

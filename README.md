@@ -88,6 +88,23 @@ You can also use:
 * perdona (sorry)
 * porfavor (please)
 
+### French
+* merde (shit)
+* putain (fuck)
+* saloperie (fucking thing)
+* couillon (fucker)
+* con (twat)
+* foutu (fucked)
+* trouduc (asshole)
+* enfoiré (untranslatable, lit. "covered in shit")
+* bordel (used like fuck, lit. "bordello")
+* chier (to shit)
+* abruti (dulled by work)
+* crève (die)
+* enflure (untranslatable, lit. "swollen inflamation")
+* pardon (sorry)
+* stp (please)
+
 And all of this will become important after PostCSS does his thing.
 
 ## Why ?
