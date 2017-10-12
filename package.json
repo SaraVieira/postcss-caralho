@@ -1,6 +1,6 @@
 {
 	"name": "postcss-caralho",
-	"version": "2.3.0",
+	"version": "2.4.0",
 	"description": "PostCSS plugin for writing curse words instead of important because reasons",
 	"keywords": [
 		"postcss",
