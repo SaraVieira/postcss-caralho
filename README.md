@@ -105,6 +105,28 @@ You can also use:
 * pardon (sorry)
 * stp (please)
 
+### Serbian
+* sranje (shit)
+* govno (shit)
+* jebiga (fuck)
+* jebeno (fucking thing)
+* picka (cunt)
+* sisica (means small boob, but context is pussy)
+* kurac (dick)
+* cmar (asshole)
+* izvini (sorry)
+* ups (ooops)
+* upickumaterinu ("u picku materinu" in mother pussy)
+* mrsupickumaterinu ("mars u picku materinu" go to your mother's pussy)
+* stakojikurac ("sta koji kurac" what the fuck)
+* jebemmumisa ("jebem mu misa" I fuck his mouse)
+* jebotebog ("jebo te bog" god fuck you)
+* jebotipasmater ("jebo ti pas mater" dog fucks your mother)
+* jebotikonjmater ("jebo ti konj mater" horse fucks your mother)
+* jebotikonjkrvavimkurcemmater ("jebo ti konj krvavim kurcem mater" horse fucks your mother with bloody dick)
+* jebemtisvestosezakvakuuhvati ("jebem ti sve sto se za kvaku uhvati" i fuck your everyone who used your door knob)
+
+
 And all of this will become important after PostCSS does his thing.
 
 ## Why ?
