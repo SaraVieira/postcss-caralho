@@ -2,6 +2,10 @@
 [![Coverage Status](https://coveralls.io/repos/github/SaraVieira/postcss-caralho/badge.svg?branch=master)](https://coveralls.io/github/SaraVieira/postcss-caralho?branch=master)
 [![npm](https://badge.fury.io/js/postcss-caralho.svg)](https://www.npmjs.com/package/postcss-caralho)
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/postcss-caralho'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/postcss-caralho.svg' />
+</a>
+
 [PostCSS] plugin for that changes curse words after ! to !important because why not ?
 
 [PostCSS]: https://github.com/postcss/postcss
