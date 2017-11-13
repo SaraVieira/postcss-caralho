@@ -445,9 +445,9 @@ cryptiles@2.x.x:
   dependencies:
     boom "2.x.x"
 
-curse-words-common@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/curse-words-common/-/curse-words-common-1.0.0.tgz#e48c87ba2e1469d65df8be0b1507e2b56bc923dc"
+curse-words-common@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/curse-words-common/-/curse-words-common-1.1.0.tgz#05dc8e851575cb13965873cf1938e05cfe5a8e02"
 
 dashdash@^1.12.0:
   version "1.14.1"
