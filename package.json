@@ -21,6 +21,7 @@
 	},
 	"homepage": "https://github.com/SaraVieira/postcss-caralho",
 	"dependencies": {
+		"curse-words-common": "^1.0.0",
 		"postcss": "^6.0.7"
 	},
 	"devDependencies": {

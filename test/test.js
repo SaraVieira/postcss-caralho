@@ -2,7 +2,7 @@
 const postcss = require('postcss')
 const expect = require('chai').expect
 const plugin = require('../')
-const words = require('./../words.js')
+const words = require('curse-words-common')
 
 const test = (input, output, opts, done) => {
 	postcss([plugin(opts)])

@@ -111,9 +111,10 @@ And all of this will become important after PostCSS does his thing.
 
 Idk, mainly boredom and the need to write !caralho or !fuck in every stylesheet I own.
 
-## Add Words
+## I want to add words !
 
-Simply go to [words.js](https://github.com/SaraVieira/postcss-caralho/blob/master/words.js), edit that file and create a PR, test will build automatically 🎉
+Awesome ! You can create a PR here:
+[https://github.com/SaraVieira/curse-words](https://github.com/SaraVieira/curse-words) and these tests and the ones in [https://github.com/SaraVieira/babel-plugin-caralho](https://github.com/SaraVieira/babel-plugin-caralho) will be generated automatically 🎉
 
 ## Install
 

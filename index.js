@@ -1,5 +1,5 @@
 const postcss = require('postcss')
-const words = require('./words.js')
+const words = require('curse-words-common')
 
 module.exports = postcss.plugin('postcss-caralho', () => {
 	return css => {
