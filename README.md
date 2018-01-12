@@ -56,4 +56,4 @@ See [PostCSS] docs for examples for your environment.
 
 ## License
 
-Use as you please to confuse people and enjoy (MIT)
+WTFPL – Do What the Fuck You Want to Public License.
